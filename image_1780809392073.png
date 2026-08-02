@@ -1,0 +1,115 @@
+IMPORTANT DESIGN REFERENCE
+
+Build the website with a design style very similar to AVI Clinic.
+
+Reference Website:
+https://www.avi.clinic/
+
+The final website should have:
+
+* Clean premium healthcare branding
+* Minimalist modern UI
+* White background with medical blue accents
+* Large hero section with image and CTA buttons
+* Rounded cards and sections
+* Spacious layouts with lots of white space
+* Professional typography
+* Smooth scrolling animations
+* Premium doctor profile cards
+* Modern appointment booking section
+* Hospital statistics counters
+* Testimonials carousel
+* Responsive mobile-first design
+* Sticky navigation bar
+* Elegant hover effects
+* Professional medical imagery
+
+PAGE STRUCTURE
+
+1. Sticky Header
+
+   * Hospital Logo
+   * Home
+   * About
+   * Doctors
+   * Departments
+   * Services
+   * Contact
+   * Book Appointment button
+
+2. Hero Section
+
+   * Modern split-screen layout
+   * Left side:
+
+     * Main heading
+     * Description
+     * Book Appointment button
+     * Call Now button
+   * Right side:
+
+     * Professional healthcare image
+
+3. Statistics Section
+
+   * 20 Beds
+   * Expert Doctors
+   * Emergency Care
+   * Affordable Treatment
+
+4. About Hospital Section
+
+   * Modern image + text layout
+
+5. Specialities Section
+
+   * Orthopaedics
+   * General Medicine
+   * Critical Care
+   * Gynecology
+   * Pediatrics
+   * Urology
+
+6. Meet Our Doctors
+
+   * Large doctor cards
+   * Doctor image
+   * Qualification
+   * Specialty
+   * Appointment button
+
+7. Services Grid
+
+   * 15 hospital services
+   * Modern icon cards
+
+8. Emergency Banner
+
+   * Red emergency section
+   * Call +91 9966990001
+
+9. Testimonials Section
+
+10. Appointment Booking Section
+
+11. Gallery Section
+
+12. Contact + Google Map
+
+13. Premium Footer
+
+DESIGN QUALITY
+
+The website should feel like a ₹10 lakh professionally designed hospital website and should not look like a template.
+
+Use:
+
+* Framer Motion animations
+* Glassmorphism effects where appropriate
+* Modern gradients
+* Soft shadows
+* Smooth transitions
+* Premium UI components
+* High-quality placeholder medical images
+
+The final result should be visually comparable to top private hospitals and very close in quality and layout style to AVI Clinic.

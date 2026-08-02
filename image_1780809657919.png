@@ -1,0 +1,393 @@
+Build a modern, premium, responsive healthcare website for Jaya Multispeciality Hospital located in Boduppal, Hyderabad, India.
+
+PROJECT OVERVIEW
+
+Create a professional hospital website that builds trust, attracts patients, showcases doctors and specialties, enables appointment booking, and highlights emergency healthcare services.
+
+The website should look comparable to leading hospitals such as Apollo, Yashoda, AIG, and KIMS while maintaining a local community-focused feel.
+
+TECH STACK
+
+* Next.js 15
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* SEO Optimized
+* Mobile First Design
+* Fast Loading
+* Google Maps Integration
+* WhatsApp Integration
+* Appointment Booking Form
+* Contact Forms with Validation
+
+BRANDING
+
+Hospital Name:
+Jaya Multispeciality Hospital
+
+Tagline:
+"Your Trusted Partner in Healthcare"
+
+Alternative Tagline:
+"Affordable, Advanced & Compassionate Medical Care"
+
+Primary Colors:
+
+* Medical Blue (#0F5BA7)
+* White (#FFFFFF)
+* Light Gray (#F8FAFC)
+
+Accent Colors:
+
+* Green for Emergency Services
+* Dark Blue for Professional Sections
+
+BUSINESS INFORMATION
+
+Hospital Name:
+Jaya Multispeciality Hospital
+
+Address:
+Sri Sai Ram Nagar Colony,
+D.No. 5, Manik Chand Street Number 3,
+Annapurna Colony,
+Boduppal,
+Hyderabad,
+Telangana 500092,
+India
+
+Phone:
++91 9966990001
+
+Google Maps URL:
+https://www.google.com/maps?cid=4339533742620749671
+
+Hospital Capacity:
+20 Bedded Multispeciality Hospital
+
+ABOUT HOSPITAL
+
+Jaya Multispeciality Hospital is a trusted healthcare institution in Boduppal, Hyderabad, providing affordable and high-quality medical care. The hospital offers expert treatment across Orthopaedics, General Medicine, Critical Care, Obstetrics & Gynecology, Pediatrics, and Urology.
+
+The hospital is committed to patient-centered healthcare with experienced doctors, modern facilities, emergency services, diagnostic support, and compassionate treatment.
+
+WEBSITE STRUCTURE
+
+1. HERO SECTION
+
+Full-screen hero banner with:
+
+Headline:
+"Advanced Multispeciality Healthcare in Boduppal"
+
+Subheading:
+"Providing affordable, expert, and compassionate healthcare for you and your family."
+
+Buttons:
+
+* Book Appointment
+* Emergency Contact
+
+Hero Features:
+✓ 20 Bedded Hospital
+✓ Experienced Specialists
+✓ Affordable Treatment
+✓ Emergency Care Available
+
+Include professional hospital imagery.
+
+2. ABOUT US SECTION
+
+Display:
+
+* Hospital overview
+* Mission
+* Vision
+* Core values
+
+Mission:
+To provide affordable, accessible, and quality healthcare services with compassion and excellence.
+
+Vision:
+To become the most trusted healthcare destination in Boduppal and surrounding communities.
+
+3. SPECIALTIES SECTION
+
+Create attractive cards for:
+
+Orthopaedics
+
+General Medicine
+
+Critical Care
+
+Obstetrics & Gynecology
+
+Pediatrics
+
+Urology
+
+Each card should contain:
+
+* Specialty icon
+* Description
+* Learn More button
+
+4. DOCTORS SECTION
+
+Create premium doctor profile cards.
+
+Doctor 1:
+
+Dr. P Rohith
+MS Orthopaedics (Osmania)
+
+Designation:
+Consultant Orthopaedic & Trauma Surgeon
+
+Role:
+CEO, Jaya Multispeciality Hospital
+
+Description:
+Expert in orthopaedic treatments, fractures, trauma care, joint disorders, and musculoskeletal conditions.
+
+Doctor 2:
+
+Dr. P Venkateshwara Babu
+MD Physician (Osmania)
+
+Designation:
+Senior Critical Care Physician
+
+Specialization:
+Cardio Diabetologist
+
+Description:
+Expert in diabetes management, cardiac health, critical care, and internal medicine.
+
+Doctor 3:
+
+Dr. P Nikhil
+
+Designation:
+Board Director
+
+Doctor 4:
+
+Dr. K Manuja Reddy
+
+Designation:
+Board Director
+
+Specialization:
+Ladies Specialist
+
+Description:
+Experienced in women's healthcare and gynecological services.
+
+Include:
+
+* Professional doctor images placeholders
+* Qualification badges
+* Experience section
+* Appointment buttons
+
+5. SERVICES SECTION
+
+Display services with icons.
+
+Services:
+
+* Ambulance Service
+* Anaesthesiology
+* Diagnostic Imaging
+* Emergency Care
+* Gastroenterology
+* General Check-Ups
+* Mental Health Care
+* Neurology
+* Orthopaedics
+* Outpatient Services
+* Pharmacy Services
+* X-Ray Services
+* Radiology Services
+* Orthopaedic Trauma Care
+* Critical Care Physician Services
+
+Add hover animations.
+
+6. WHY CHOOSE US
+
+Cards:
+
+✓ Experienced Doctors
+
+✓ Affordable Healthcare
+
+✓ Advanced Equipment
+
+✓ Emergency Support
+
+✓ Diagnostic Facilities
+
+✓ Patient-Centered Care
+
+✓ Clean Environment
+
+✓ Trusted Healthcare Team
+
+7. APPOINTMENT BOOKING SECTION
+
+Appointment Form:
+
+* Patient Name
+* Mobile Number
+* Email
+* Department
+* Preferred Date
+* Message
+
+Buttons:
+
+* Book Appointment
+* Call Hospital
+
+8. EMERGENCY SECTION
+
+Red emergency banner.
+
+Text:
+"Need Immediate Medical Assistance?"
+
+Emergency Number:
++91 9966990001
+
+Buttons:
+
+* Call Now
+* Get Directions
+
+9. PATIENT TESTIMONIALS
+
+Create review slider with sample testimonials.
+
+Show:
+★★★★★
+
+* Professional doctors
+* Affordable treatment
+* Friendly staff
+* Quick emergency response
+
+10. GALLERY SECTION
+
+Create image gallery placeholders:
+
+* Hospital Building
+* Reception Area
+* Consultation Rooms
+* Operation Theatre
+* Diagnostic Equipment
+* Patient Care Areas
+
+Include lightbox functionality.
+
+11. CONTACT SECTION
+
+Address:
+Sri Sai Ram Nagar Colony,
+D.No. 5, Manik Chand Street Number 3,
+Annapurna Colony,
+Boduppal,
+Hyderabad,
+Telangana 500092
+
+Phone:
++91 9966990001
+
+Include:
+
+* Google Maps Embed
+* Contact Form
+* Call Button
+* WhatsApp Button
+
+12. FOOTER
+
+Include:
+
+* Quick Links
+* Departments
+* Contact Details
+* Hospital Timings
+* Social Media Icons
+* Copyright
+
+SEO REQUIREMENTS
+
+Create full healthcare SEO implementation.
+
+Meta Title:
+Jaya Multispeciality Hospital | Best Hospital in Boduppal Hyderabad
+
+Meta Description:
+Jaya Multispeciality Hospital offers Orthopaedics, General Medicine, Critical Care, Gynecology, Pediatrics, Urology, Diagnostic Imaging, Emergency Services, and Affordable Healthcare in Boduppal Hyderabad.
+
+Target Keywords:
+
+* Best Hospital in Boduppal
+* Multispeciality Hospital Hyderabad
+* Orthopaedic Hospital Boduppal
+* Critical Care Hospital Hyderabad
+* Gynecology Hospital Boduppal
+* Pediatric Hospital Hyderabad
+* Emergency Care Hospital Boduppal
+* Affordable Hospital Hyderabad
+
+Implement:
+
+* Hospital Schema Markup
+* Doctor Schema
+* Local Business Schema
+* Open Graph Tags
+* Twitter Cards
+* Sitemap
+* Robots.txt
+
+ADVANCED FEATURES
+
+* Floating WhatsApp Button
+* Sticky Header
+* Smooth Scrolling
+* Scroll Animations
+* Loading Animations
+* Responsive Mobile Menu
+* Click-to-Call Buttons
+* Google Maps Integration
+* Appointment Form Validation
+* Accessibility Compliance
+
+PERFORMANCE REQUIREMENTS
+
+* Lighthouse Score 90+
+* Mobile Optimized
+* SEO Optimized
+* Fast Page Load
+* Optimized Images
+* WCAG Accessibility Standards
+
+DELIVERABLES
+
+1. Complete production-ready website
+2. Professional medical design
+3. Fully responsive layout
+4. SEO-ready architecture
+5. Appointment booking functionality
+6. Doctor management section
+7. Contact and emergency integration
+8. Clean and scalable code structure
+9. Easy content editing capability
+10. Modern hospital-grade user experience
+
+The final website should inspire trust, professionalism, medical expertise, and patient confidence while maintaining a clean and modern healthcare aesthetic.

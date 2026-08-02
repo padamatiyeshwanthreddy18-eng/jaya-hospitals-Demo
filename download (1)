@@ -1,0 +1,11 @@
+[build]
+  command = "pnpm --dir artifacts/jaya-hospital build"
+  publish = "artifacts/jaya-hospital/dist/public"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
